@@ -1,0 +1,149 @@
+
+
+.search-block {
+  height: 250px;
+  width: 400px;
+  background-color: rgb(28, 28, 31);
+  position: absolute;
+  bottom: 170px;
+  left: 500px;
+  opacity: 0.8;
+  align-items: center;
+  border-radius: 10px;
+}
+
+#bg-img{
+  width: 1360px;
+  height:625px;
+  
+}
+
+
+.form-content {
+  margin: 25px;
+}
+
+.bar-bar {
+  width: 18rem;
+}
+
+input {
+  border-radius: 100px;
+  border: 0;
+  opacity: 0.5;
+  height: 32px;
+  background-color: rgb(121, 115, 115);
+}
+
+button {
+  border-radius: 100px;
+  border: none;
+  opacity: 0.5;
+  position: relative;
+  bottom: 2px;
+  background-color: rgb(88, 82, 82);
+  color: rgb(0, 0, 0);
+}
+
+::placeholder {
+  color: rgb(175, 166, 166);
+  opacity: 1;
+}
+
+.weather-upd {
+  color: white;
+  font-size: 1.2rem;
+  font-family: sans-serif;
+  opacity: 1;
+}
+
+.temp-upd {
+  color: white;
+  font-size: 1.5rem;
+  font-family: sans-serif;
+  opacity: 1;
+  margin-left: 10px;
+  padding: 0;
+}
+#temp {
+  color: white;
+  font-size: 1.5rem;
+  font-family: sans-serif;
+  opacity: 1;
+  margin-left: 10px;
+  margin-bottom: 30px;
+  margin-top: 0;
+  padding: 0;
+}
+
+.clouds-upd {
+  color: white;
+  font-size: 0.8rem;
+  font-family: sans-serif;
+}
+
+#clouds {
+  color: white;
+  font-size: 0.8rem;
+  font-family: sans-serif;
+  position: relative;
+  bottom: 50px;
+  width: 500px;
+  height: 10px;
+  right: 10px;
+}
+
+.humidity-upd {
+  color: white;
+  font-size: 0.8rem;
+  font-family: sans-serif;
+  opacity: 1;
+  margin-left: 5px;
+  margin-bottom: 5px;
+  padding: 0;
+  margin-top: 50px;
+}
+
+#humidity {
+  color: white;
+  font-size: 0.8rem;
+  font-family: sans-serif;
+  opacity: 1;
+  margin-left: 10px;
+  margin-top: 40px;
+  padding: 0;
+  position: relative;
+  bottom: 25px;
+}
+
+.windspeed-upd {
+  color: white;
+  font-size: 0.8rem;
+  font-family: sans-serif;
+  opacity: 1;
+  margin-left: 10px;
+  margin-top: 0;
+  padding: 0;
+  position: relative;
+  bottom: 25px;
+}
+
+#windspeed {
+  color: white;
+  font-size: 0.8rem;
+  font-family: sans-serif;
+  opacity: 1;
+  margin-left: 10px;
+  margin-top: 0;
+  padding: 0;
+  position: relative;
+  bottom: 25px;
+}
+
+#weather {
+  color: white;
+  font-size: 1.2rem;
+  font-family: sans-serif;
+  opacity: 1;
+  margin: 10px;
+}
